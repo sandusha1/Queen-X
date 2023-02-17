@@ -25,13 +25,13 @@ global.location = "India, Mizoram, Aizawl" //ur location
 global.ownernomer = "94784828441" //ur number
 global.premium = ['94784828441'] //ur premium number
 global.botname = '𝘽𝘼𝘿 𝘼𝙇𝙑𝙄𝙉 𝘽𝙊𝙏' //ur bot name
-global.linkz = "www.sandusha.com@gmail.com" //your theme url which will be displayed on whatsapp
+global.linkz = "https://youtube.com/channel/UC-VBAbxLNILYiz_DnitaKnQ" //your theme url which will be displayed on whatsapp
 global.websitex = "https:// no" //ur website to be displayed
-global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
+global.botscript = 'https://github.com/sandusha1/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark packname
-global.author = "   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
-global.wm = "👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻." //ur watermark
+global.packname =    "𝙱𝚈 𝚂𝙰𝙽𝙳𝚄𝚂𝙷𝙰 𝙺𝙰𝚆𝚂𝙷𝙰𝙻𝚈𝙰" //ur sticker watermark packname
+global.author = "   𝘽𝘼𝘿 𝘼𝙇𝙑𝙄𝙉 \n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
+global.wm = "🏻𝙉𝙄𝙑𝙇𝘼 𝘿𝘽𝘼." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -48,8 +48,8 @@ global.mess = {
     group: '*👸🏻💭Features Used Only For Groups!*',
     private: '*👸🏻💭Features Used Only For Private Chat!*',
     bot: '*👸🏻💭This feature could be used by bot only*',
-    wait: '*👸🏻💭Please wait...*',
-    linkm: '*👸🏻💭Where is the link?*',
+    wait: '*👸🏻💭පොඩ්ඩක් ඉන්න🙂*',
+    linkm: '*👸🏻💭Link එක කොහෙද?*',
     endLimit: '*👸🏻💭Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours*',
     nsfw: '*👸🏻💭The nsfw feature has not been activated, please contact the admin to activate*',
 }
